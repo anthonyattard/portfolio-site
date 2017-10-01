@@ -1,0 +1,19 @@
+.name-desc {
+	color: #2d3c49;
+	text-transform: uppercase;
+}
+
+hr {
+	border-color: #2d3c49;
+}
+
+.feat-work h2 {
+	color: #7d97ad;
+}
+.project {
+	text-align: center;
+}
+
+.project h1 {
+	color: #2d3c49;
+}
