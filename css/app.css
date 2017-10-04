@@ -1,6 +1,7 @@
 .name-desc {
 	color: #2d3c49;
 	text-transform: uppercase;
+	text-align: right;
 }
 
 hr {
