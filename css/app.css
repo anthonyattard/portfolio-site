@@ -18,3 +18,14 @@ hr {
 .project h1 {
 	color: #2d3c49;
 }
+
+.header-img {
+	max-width: 123px;
+	max-height: auto;
+}
+
+.equal {
+  display: flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+}
