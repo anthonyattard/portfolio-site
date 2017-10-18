@@ -38,3 +38,7 @@ hr {
   display: -webkit-flex;
   flex-wrap: wrap;
 }
+
+.main-content {
+	margin-bottom: 2em;
+}
