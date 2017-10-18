@@ -34,9 +34,9 @@ hr {
 }
 
 .equal {
-  display: flex;
-  display: -webkit-flex;
-  flex-wrap: wrap;
+	display: flex;
+	display: -webkit-flex;
+	flex-wrap: wrap;
 }
 
 .main-content {
